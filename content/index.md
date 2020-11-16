@@ -1,7 +1,9 @@
 ---
 title: 'Welcome to Musicstands.co.uk !'
 type: "post"
-toc: "true"
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 ---
 <details>
 <summary>I could use some help...</summary>
