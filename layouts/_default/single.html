@@ -1,12 +1,14 @@
 {{ define "main" }}
 
-...
 
-{{- partial "toc.html" . -}}
-
-...
 
   <article>
+
+    ...
+
+    {{- partial "toc.html" . -}}
+
+    ...
     {{ partial "heading.html" . }}
     {{ .Content }}
     {{ partial "tags.html" . }}
