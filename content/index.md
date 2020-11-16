@@ -1,6 +1,9 @@
 ---
 title: 'Welcome to Musicstands.co.uk !'
 type: "post"
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 ---
 
 <details>
