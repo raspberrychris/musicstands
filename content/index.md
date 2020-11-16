@@ -21,11 +21,11 @@ type: "post"
 
 **From the Manufacturer:**
 
->*The Tiger MUS7-BK Orchestral Music Stand is a heavy-duty**, secure and robust orchestral sheet music stand that caters for the musician or singer that’s looking for a durable and long-lasting music stand. Constructed with an all-metal design, this fully adjustable sheet music stand is much stronger than most others out on the market – all joints, poles, legs and the desk are made from metal.
+>*The Tiger MUS7-BK Orchestral Music Stand is a heavy-duty, secure and robust orchestral sheet music stand that caters for the musician or singer that’s looking for a durable and long-lasting music stand. Constructed with an all-metal design, this fully adjustable sheet music stand is much stronger than most others out on the market – all joints, poles, legs and the desk are made from metal.
 
 >Ideal for both seated and standing performances, this stand has as large range of height adjustability. With a two-tier design allowing this stand to adjust between 70cm and 115cm of height you can find the perfect positioning for your required setup – and with desk dimensions of 47.5cm x 33.5cm and a lip of 5cm, you’ll be able to accommodate the biggest of binders or music books.
 
->Achieve your desired positioning even easier thanks to the gearless tilt mechanism featured on this stand. Finding the right angle has never been so easy – simply loosen the adjustment, tilt the desk to your preferred angle and fasten the adjuster back up.
+>Achieve your desired positioning even easier thanks to the gear less tilt mechanism featured on this stand. Finding the right angle has never been so easy – simply loosen the adjustment, tilt the desk to your preferred angle and fasten the adjuster back up.
 
 >This stand is  popular within classrooms, orchestras, choirs and with the gigging musician thanks to its sturdy and durable design. The Tiger MUS7-BK also packs down quick and easily making this the ideal stand for musicians on the move.*
 
