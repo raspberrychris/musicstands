@@ -1,11 +1,12 @@
 ---
 title: 'Welcome to Musicstands.co.uk !'
 type: "post"
-markdown: CommonMarkGhPages
+markdown: "span"
 ---
 
 <details>
-<summary><h2>Table of Contents</h2></summary>
+
+<summary markdown="block"> Table of Contents</summary>
 <p>
 
 <!-- MDTOC maxdepth:1 firsth1:1 numbering:0 flatten:1 bullets:1 updateOnSave:1 -->
