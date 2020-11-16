@@ -1,10 +1,9 @@
 ---
 title: 'Welcome to Musicstands.co.uk !'
 type: "post"
-
+toc: "true"
 ---
 
-[tocToggle]
 
 ## Tiger Mus7-Bk Orchestral Music Stand All  
 
