@@ -4,11 +4,7 @@
 
   <article>
 
-    ...
-
-    {{- partial "toc.html" . -}}
-
-    ...
+  {{ partial "header-link.html" .Content }}
     {{ partial "heading.html" . }}
     {{ .Content }}
     {{ partial "tags.html" . }}
