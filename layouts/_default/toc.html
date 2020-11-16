@@ -14,7 +14,6 @@
 {{- $firstHeaderLevel := len (seq (index (findRE "[1-4]" (index $headers 0) 1) 0)) -}}
 
 {{- $.Scratch.Set "bareul" slice -}}
-<div id="TableOfContents">
 <ul>
   {{- range seq (sub $firstHeaderLevel $largest) -}}
     <ul>
@@ -68,7 +67,6 @@
       <a href="#{{- $cleanedID -}}">{{- $header | safeHTML -}}</a>
     {{- end -}}
   {{- end -}}
-  <!-- {{- $firstHeaderLevel := len (seq (index (findRE "[1-4]" (index $headers 0) 1) 0)) -}} -->
   {{ $firstHeaderLevel := $largest }}
   {{- $lastHeaderLevel := len (seq (index (findRE "[1-4]" (index $headers (sub (len $headers) 1)) 1) 0)) -}}
   </li>
@@ -80,5 +78,4 @@
     {{- end -}}
   {{- end -}}
 </ul>
-</div>
 {{- end -}}
