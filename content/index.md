@@ -1,8 +1,7 @@
 ---
 title: 'Welcome to Musicstands.co.uk !'
 type: "post"
-grid-template-columns: 100% 15em;
-position: sticky; align-self: start;
+
 ---
 {{%expand "Is this learn theme rocks ?" %}}Yes !.{{% /expand%}}
 

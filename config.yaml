@@ -29,7 +29,7 @@ params:
   # js:                 # Uncomment to add custom JS from a list of files
   #   - js/foo.js
   #   - bar.js
-markdown: CommonMarkGhPages
+
 
 menu:
   nav:
