@@ -4,6 +4,13 @@
 
   <article>
 
+{{ .TableOfContents }}
+    html, body {
+        scroll-padding-top: 100px;
+    }
+
+
+
   {{ partial "header-link.html" .Content }}
     {{ partial "heading.html" . }}
     {{ .Content }}

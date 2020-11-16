@@ -1,9 +1,8 @@
 ---
 title: 'Welcome to Musicstands.co.uk !'
 type: "post"
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+grid-template-columns: 100% 15em;
+position: sticky; align-self: start;
 ---
 <details>
 <summary>:heart: Thank you</summary>
