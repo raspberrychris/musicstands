@@ -44,7 +44,7 @@ Lip depth: 5cm
 
 ### Customers Say about this product  
 
->  "I am loving this product! It goes on the floor and reaches a sufficient height when I am standing on a conductors rostrum. Fab!!!
+>  *"I am loving this product! It goes on the floor and reaches a sufficient height when I am standing on a conductors rostrum. Fab!!!*
 - Review from Tigermusic.co.uk
 
 
