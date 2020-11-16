@@ -2,6 +2,7 @@
 title: 'Welcome to Musicstands.co.uk !'
 type: "post"
 markdown: "span"
+toc: "true"
 ---
 
 <details>
