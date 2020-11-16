@@ -1,7 +1,7 @@
 ---
 title: 'Welcome to Musicstands.co.uk !'
 type: "post"
-
+toc: true
 ---
 
 {{%expand "Is this learn theme rocks ?" %}}Yes !.{{% /expand%}}
