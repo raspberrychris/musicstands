@@ -12,21 +12,41 @@ type: "post"
 
 ### Product Description  
 
-this is in line with ses make this fits introducing the number p when model replacement part bullet loader performance function module module initializedpx to the metal structure all of the joints rods and metal legs esta place in plastic up much more robust than the adjustable design alternative fully height of two stages of 70 cm to 115 cmsdesk dimensions 47 5 cm wide 33 5 cm height a depth of 5 cm lip capable of absorbing buy such as binders or booksgearless tilting mechanism makes it possible give them the correct angle for easy ideal classroom orchestras and musicians concerts to find mus7 bk packs down quickly and easily  
+#### Key Points about this music stand:
+
+- Metal – all joints, poles, desk and legs made from metal instead of plastic making this a very robust stand
+- This stand is height adjustable two tier design from 70cm to 115cm
+- Desk dimensions, 47.5cm width, 33.5cm height, 5cm lip depth & able to accommodate the biggest of binders or books
+- Easily adjustable with tilt mechanism
+- Perfect for school and educational use, orchestral musicians and amateur musicians
+
+**From the Manufacturer:**
+
+>**The Tiger MUS7-BK Orchestral Music Stand is a heavy-duty**, secure and robust orchestral sheet music stand that caters for the musician or singer that’s looking for a durable and long-lasting music stand. Constructed with an all-metal design, this fully adjustable sheet music stand is much stronger than most others out on the market – all joints, poles, legs and the desk are made from metal.
+
+>Ideal for both seated and standing performances, this stand has as large range of height adjustability. With a two-tier design allowing this stand to adjust between 70cm and 115cm of height you can find the perfect positioning for your required setup – and with desk dimensions of 47.5cm x 33.5cm and a lip of 5cm, you’ll be able to accommodate the biggest of binders or music books.
+
+>Achieve your desired positioning even easier thanks to the gearless tilt mechanism featured on this stand. Finding the right angle has never been so easy – simply loosen the adjustment, tilt the desk to your preferred angle and fasten the adjuster back up.
+
+>This stand is  popular within classrooms, orchestras, choirs and with the gigging musician thanks to its sturdy and durable design. The Tiger MUS7-BK also packs down quick and easily making this the ideal stand for musicians on the move.
 
 ### Our Rating For This Product  
 
 4.5 out of 5 stars  
 
-⭐⭐⭐⭐⭐  
+⭐⭐⭐⭐  
 
 ### Technical Details  
 
+Minimum height: 70cm
+Maximum height: 115cm
+Desk dimensions: 47.5cm x 33.5cm
+Lip depth: 5cm
 
 ### Customers Say about this product  
 
->  
-
+>  "I am loving this product! It goes on the floor and reaches a sufficient height when I am standing on a conductors rostrum. Fab!!!
+- Review from Tigermusic.co.uk
 
 
 ### Pros and Cons  
