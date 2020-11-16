@@ -1,6 +1,5 @@
 ---
 title: 'Welcome to Musicstands.co.uk !'
-date: 2018-02-22T17:01:34+07:00
 type: "post"
 ---
 
