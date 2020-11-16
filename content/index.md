@@ -3,6 +3,10 @@ title: 'Welcome to Musicstands.co.uk !'
 type: "post"
 toc: "true"
 ---
+
+{{< expand `Click me!` "fas fa-bars" "fas fa-ban" >}} Hidden content {{< /expand >}}
+
+
 <!-- MDTOC maxdepth:3 firsth1:1 numbering:1 flatten:0 bullets:1 updateOnSave:1 -->
 
    - 0.1. [Tiger Mus7-Bk Orchestral Music Stand All](#tiger-mus7-bk-orchestral-music-stand-all)   
